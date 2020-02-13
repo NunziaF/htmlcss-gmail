@@ -1,0 +1,92 @@
+
+body{
+  background-image: url("img/legno.jpg");
+}
+
+header{
+  height: 80px;
+  width: 50%;
+  margin:auto;
+}
+
+img{
+  height: 60px;
+  width: 80px;
+  margin-top: 10px;
+}
+
+h1{
+  display: inline-block;
+  position: absolute;
+  color: white;
+  margin-left: 5px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+main{
+  width: 50%;
+  padding: 0 25%;
+}
+
+#ricercaemail{
+  border-top: 1px solid white;
+  height: 20px;
+  padding-top: 7px;
+}
+
+#notifica{
+  font-size: 20px;
+  color: white;
+  border-bottom: 1px solid white;
+  padding-bottom: 10px;
+}
+
+#numeroemail{
+  display: inline-block;
+  background-color: #eb9514;
+  text-align:center;
+  border-radius: 50%;
+  padding: 4px;
+  width: 25px;
+}
+
+#risultati-ricerca{
+  font-size: 5%;
+  height: 55px;
+  padding: 6px;
+}
+
+#email{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  height: 200px;
+}
+
+.titolomail{
+  font-weight: bold;
+}
+
+.testomail{
+  color: rgb(88, 86, 86);
+}
+
+.maillette{
+  background-color: grey;
+  border: 1px solid black;
+  padding: 3px;
+}
+
+.mailnonlette{
+  background-color:	#c0c0c0;
+  border: 1px solid black;
+  padding: 3px;
+}
+
+footer{
+  border-top: 1px solid white;
+  padding-top: 5px;
+  text-align: center;
+  color: white;
+  margin: 1% 25% 25%;
+}
